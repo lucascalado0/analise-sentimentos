@@ -1,0 +1,21 @@
+senteça 1(produto): 
+
+O material é resistente e durável.  
+O tamanho não corresponde à descrição do site.  
+A embalagem protege bem o produto durante o transporte.  
+O cheiro do material é desagradável nos primeiros dias.  
+
+senteça 2(entrega): 
+
+A entrega foi mais rápida do que o esperado.  
+O rastreamento não atualizou corretamente.  
+Recebi um item diferente do que pedi.  
+O produto chegou bem embalado e sem defeitos.  
+
+
+senteça 3(app): 
+
+O app é fácil de usar e intuitivo.  
+A última atualização trouxe muitos bugs.  
+A personalização do perfil poderia ter mais opções.  
+O login demora muito para ser concluído. 
